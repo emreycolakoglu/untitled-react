@@ -1,0 +1,9 @@
+{
+  "name": "untitled-react",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/untitled-react/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project untitled-react --web",
+  "targets": {}
+}
