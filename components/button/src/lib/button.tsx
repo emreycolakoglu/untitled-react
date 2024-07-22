@@ -1,9 +1,5 @@
 export function Button() {
-  return (
-    <div>
-      <h1>Welcome to Button!</h1>
-    </div>
-  );
+  return <button className="bg-red-200">asd</button>;
 }
 
 export default Button;

@@ -1,9 +1,9 @@
-import NxWelcome from './nx-welcome';
+import { Button } from '@untitled-rect/button';
 
 export function App() {
   return (
-    <div>
-      <NxWelcome title="untitled-react" />
+    <div className="bg-slate-400">
+      <Button></Button>
     </div>
   );
 }
